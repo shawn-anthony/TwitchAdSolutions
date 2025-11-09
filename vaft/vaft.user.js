@@ -44,7 +44,7 @@
         scope.IsPlayerBuffering = false;
         scope.LastPausePlay = 0;
         scope.FixPlayerBufferingInsideAds = true;
-        scope.FixPlayerBufferingOutsideAds = false;
+        scope.FixPlayerBufferingOutsideAds = true;
         scope.DelayBetweenEachPlayerFixBufferAttempt = 3000;
         scope.ActiveStreamInfo = null;
         scope.V2API = false;
